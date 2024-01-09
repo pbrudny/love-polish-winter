@@ -4,3 +4,5 @@ This is my application to improve my love of winter
 * Install Python
 * Run it
 * Enjoy it
+
+## Contribution
